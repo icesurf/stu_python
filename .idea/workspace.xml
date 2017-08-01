@@ -4,6 +4,7 @@
     <list default="true" id="41b6be32-0e0b-482f-8c63-6b2052c64f9c" name="Default" comment="" />
     <ignored path="stu_python1.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +25,8 @@
       <file leaf-file-name="a" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/a">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07853403">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.11780105">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -356,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/a">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07853403">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.11780105">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
